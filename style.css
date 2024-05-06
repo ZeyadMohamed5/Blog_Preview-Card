@@ -30,7 +30,7 @@ body {
   flex-direction: column;
   align-items: center;
   background-color: var(--White);
-  width: 350px;
+  max-width: 350px;
   padding: 18px;
   border-radius: 16px;
   border: 1px solid var(--Black);
