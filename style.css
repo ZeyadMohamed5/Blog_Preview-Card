@@ -95,6 +95,6 @@ p {
   color: var(--Yellow);
 }
 
-.blog-card a:hover .blog-card {
-  box-shadow: 10px 10px var(--Black);
+.attribution {
+  text-alignt:center;
 }
