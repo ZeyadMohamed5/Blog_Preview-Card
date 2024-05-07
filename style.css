@@ -71,6 +71,7 @@ p {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction:row;
   margin: 16px 0 0 0;
 }
 .avatar-container {
@@ -79,6 +80,8 @@ p {
 }
 .avatar-container img {
   max-width: 100%;
+    display: inline-block;
+  vertical-align: middle;
 }
 .user-name {
   font-weight: 800;
@@ -96,5 +99,5 @@ p {
 }
 
 .attribution {
-  text-alignt:center;
+  text-align:center;
 }
